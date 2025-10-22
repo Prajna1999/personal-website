@@ -1,0 +1,5 @@
+localhost:8081 {
+	root * .
+    encode gzip
+    file_server browse
+}
