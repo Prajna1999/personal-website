@@ -1,4 +1,4 @@
-localhost:8081 {
+localhost:8080 {
 	root * .
     encode gzip
     file_server browse
